@@ -8,5 +8,7 @@
 </head>
 <body>
 <h1>DIO is Bike</h1>
+<h2>SWIFT is Car</h2>
+<h3>IPHONE is a phone</h3>
 </body>
 </html>
